@@ -1,2 +1,12 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// // SЗадание 1. Совместная работа
+// Задайте массив. Напишите программу, которая определяет, 
+// присутствует ли заданное число в массиве. Программа должна выдать ответ: Да/Нет.
+// Примеры
+// [1 3 4 19 3], 8 => Нет [-4 3 4 1], 3 => Да
+// Console.WriteLine("Hello, World!");
+
+// Примеры массивов
+int[] array = new int[8];
+int[] array1 = new int[8] { 1, 2, 3, 4, 5, 6, 7, 8 };
+int[] array2 = new int[] { 1, 2, 3, 4, 5, 6, 7, 8 };
+int[] array3 = { 5, 6, 7, 8, 9, 10 };
