@@ -13,18 +13,18 @@
 
 using System.ComponentModel.DataAnnotations;
 
-Console.WriteLine("Задайте целое число для поиска в массиве");
-int targetnum = Convert.ToInt32(Console.ReadLine());
-int[] array = { 5, 6, 7, 8, 9, 10 };
-bool res = false;
+// Console.WriteLine("Задайте целое число для поиска в массиве");
+// int targetnum = Convert.ToInt32(Console.ReadLine());
+// int[] array = { 5, 6, 7, 8, 9, 10 };
+// bool res = false;
 
-for (int i = 0; i < array.Length; i++)
-{
-    if(array[i] == targetnum)
-    {
-        res = true;
-        break;
+// for (int i = 0; i < array.Length; i++)
+// {
+//     if(array[i] == targetnum)
+//     {
+//         res = true;
+//         break;
 
-    }
-}
-Console.WriteLine(res ? "да" : "нет");
+//     }
+// }
+// Console.WriteLine(res ? "да" : "нет");
