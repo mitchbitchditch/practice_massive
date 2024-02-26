@@ -1,0 +1,14 @@
+/Users/vladislavponomarev/Desktop/Practicum_massive/task_04/bin/Debug/net7.0/task_04
+/Users/vladislavponomarev/Desktop/Practicum_massive/task_04/bin/Debug/net7.0/task_04.deps.json
+/Users/vladislavponomarev/Desktop/Practicum_massive/task_04/bin/Debug/net7.0/task_04.runtimeconfig.json
+/Users/vladislavponomarev/Desktop/Practicum_massive/task_04/bin/Debug/net7.0/task_04.dll
+/Users/vladislavponomarev/Desktop/Practicum_massive/task_04/bin/Debug/net7.0/task_04.pdb
+/Users/vladislavponomarev/Desktop/Practicum_massive/task_04/obj/Debug/net7.0/task_04.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladislavponomarev/Desktop/Practicum_massive/task_04/obj/Debug/net7.0/task_04.AssemblyInfoInputs.cache
+/Users/vladislavponomarev/Desktop/Practicum_massive/task_04/obj/Debug/net7.0/task_04.AssemblyInfo.cs
+/Users/vladislavponomarev/Desktop/Practicum_massive/task_04/obj/Debug/net7.0/task_04.csproj.CoreCompileInputs.cache
+/Users/vladislavponomarev/Desktop/Practicum_massive/task_04/obj/Debug/net7.0/task_04.dll
+/Users/vladislavponomarev/Desktop/Practicum_massive/task_04/obj/Debug/net7.0/refint/task_04.dll
+/Users/vladislavponomarev/Desktop/Practicum_massive/task_04/obj/Debug/net7.0/task_04.pdb
+/Users/vladislavponomarev/Desktop/Practicum_massive/task_04/obj/Debug/net7.0/task_04.genruntimeconfig.cache
+/Users/vladislavponomarev/Desktop/Practicum_massive/task_04/obj/Debug/net7.0/ref/task_04.dll
