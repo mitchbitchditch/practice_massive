@@ -6,7 +6,25 @@
 // Console.WriteLine("Hello, World!");
 
 // Примеры массивов
-int[] array = new int[8];
-int[] array1 = new int[8] { 1, 2, 3, 4, 5, 6, 7, 8 };
-int[] array2 = new int[] { 1, 2, 3, 4, 5, 6, 7, 8 };
-int[] array3 = { 5, 6, 7, 8, 9, 10 };
+// int[] array0 = new int[8];
+// int[] array1 = new int[8] { 1, 2, 3, 4, 5, 6, 7, 8 };
+// int[] array2 = new int[] { 1, 2, 3, 4, 5, 6, 7, 8 };
+
+
+using System.ComponentModel.DataAnnotations;
+
+Console.WriteLine("Задайте целое число для поиска в массиве");
+int targetnum = Convert.ToInt32(Console.ReadLine());
+int[] array = { 5, 6, 7, 8, 9, 10 };
+bool res = false;
+
+for (int i = 0; i < array.Length; i++)
+{
+    if(array[i] == targetnum)
+    {
+        res = true;
+        break;
+
+    }
+}
+Console.WriteLine(res ? "да" : "нет");
